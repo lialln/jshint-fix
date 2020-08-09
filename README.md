@@ -1,2 +1,3 @@
 # jshint-fix
-jshint `auto fix` for vscode 
+
+jshint `auto fix` for VSCode
